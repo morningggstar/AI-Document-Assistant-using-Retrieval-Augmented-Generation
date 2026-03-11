@@ -10,3 +10,11 @@ This project demonstrates how modern AI applications combine vector search, embe
 * Retrieval of relevant document segments
 * LLM-based answer generation
 * Natural language question answering
+
+## Tech Stack
+* Programming Language: Python
+* AI Framework: LangChain
+* LLM Provider: OpenAI API
+* Vector Database: Chroma / FAISS
+* Embeddings: OpenAI Embeddings
+* Optional Frontend: HTML, CSS, JavaScript
